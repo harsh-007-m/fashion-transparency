@@ -2,6 +2,10 @@
 --- 
 
 An analysis to understand the relationship between the parameters:
+- Thrift Store
+- Sustainable Fashion
+- Cruelty Free
+- Fast Fashion
 
 
 **Status:** Work in progress (Day 1 of 7: data collected and inspected)
